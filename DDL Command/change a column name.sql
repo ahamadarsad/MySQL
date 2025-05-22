@@ -1,0 +1,1 @@
+alter table student change Department Dept varchar(30);
