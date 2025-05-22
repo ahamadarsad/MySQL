@@ -1,0 +1,1 @@
+update std set age=17 where name="manoj";

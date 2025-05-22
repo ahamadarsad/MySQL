@@ -1,0 +1,1 @@
+delete from std where age=19
